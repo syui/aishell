@@ -1,9 +1,5 @@
 # aishell
 
-**ID**: ai.syui.shell
-**Name**: aishell
-**SID**: ai.shell
-**Version**: 0.1.0
 
 ## 概要
 
